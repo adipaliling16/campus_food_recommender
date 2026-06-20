@@ -11,7 +11,7 @@ Project Flutter siap pakai untuk tugas besar APB: aplikasi rekomendasi tempat ma
 - Tambah rating dan ulasan pengguna
 - Galeri foto sederhana
 - Halaman admin untuk tambah, ubah, dan hapus data tempat makan
-- Data lokal/in-memory sehingga langsung bisa dijalankan tanpa backend
+- Backend menggunakan Firebase Authentication dan Cloud Firestore untuk autentikasi pengguna, penyimpanan data tempat, review, dan rating.
 
 ## Cara Menjalankan
 
