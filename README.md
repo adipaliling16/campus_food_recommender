@@ -1,4 +1,4 @@
-# Cafe/Food Recommender (TTIK KUMPUL) 
+# Cafe/Food Recommender (TITIK KUMPUL) 
 
 Project Flutter siap pakai untuk tugas besar APB: aplikasi rekomendasi tempat makan dan cafe di sekitar kampus berbasis rating dan ulasan pengguna.
 
